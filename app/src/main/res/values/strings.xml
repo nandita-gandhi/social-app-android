@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Social</string>
+    <string name="web_client_id">243361276374-jsblrs4adre72fr8uq5jisp2mn0fv43p.apps.googleusercontent.com</string>
+    <string name="create_post_hint">What do you want to talk about?</string>
+    <string name="post_label">POST</string>
+</resources>
