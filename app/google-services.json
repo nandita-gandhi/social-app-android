@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "243361276374",
+    "project_id": "social-app-android-8d0ec",
+    "storage_bucket": "social-app-android-8d0ec.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:243361276374:android:077460cf84ead64ada4477",
+        "android_client_info": {
+          "package_name": "com.gosocial.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "243361276374-i5flehpqj6qa9pb3gspqirsclscc5deh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gosocial.app",
+            "certificate_hash": "4474e8706ea73df8e04eb0188676b839c4a1395a"
+          }
+        },
+        {
+          "client_id": "243361276374-jsblrs4adre72fr8uq5jisp2mn0fv43p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAypd8-1lRjc37bz32ImgpXoKB1-QE1Kw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "243361276374-jsblrs4adre72fr8uq5jisp2mn0fv43p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
